@@ -45,7 +45,7 @@ Build premium quality applications with ease. Use our innovative admin template 
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
 - 🦾 TypeScript & JavaScript versions
 
-[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/)
+[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/)
 
 ## Installation ⚒️
 
