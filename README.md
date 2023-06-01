@@ -1,69 +1,111 @@
 <p align="center"></p>
 
 <p align="center">
-   <a href="{ts_product_page_url}" target="_blank">
-      <img src="{svg_logo_url_from_current_repo}" alt="{template_name}-logo" width="60px" height="auto">
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="{ts_product_page_url}" target="_blank" align="center">
-      {template_name_titlized}
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank" align="center">
+ Sneat – Vuetify Vuejs Laravel Admin Template Free
    </a>
 </h1>
 
-<p align="center">{template_punchline}</p>
+<p align="center">Production Ready, Carefully Crafted, Extensive Vuetify Admin Template</p>
 
 <p align="center">
-   <a href="{licence_url_of_current_repo}">
-      <img src="https://img.shields.io/github/license/themeselection/{repo_name_from_url}" alt="license">
+   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/themeselection/sneat-vuetify-vuejs-admin-template-free" alt="license">
    </a>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/{repo_name_from_url}/Deploy">
-   <a href="{repo_url}/releases">
-    <img src="https://img.shields.io/github/release/themeselection/{repo_name_from_url}.svg" alt="GitHub release">
+   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/sneat-vuetify-vuejs-admin-template-free/Deploy">
+   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/releases">
+    <img src="https://img.shields.io/github/release/themeselection/sneat-vuetify-vuejs-admin-template-free.svg" alt="GitHub release">
   </a>
    <a href="https://twitter.com/Theme_Selection" target="_blank">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
    </a>
 </p>
 
-<kbd>[![Materio - Vuetify VueJS Free Admin Template Demo Screenshot]({product_demo_image_url})]({ts_product_page_url})</kbd>
+<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/sneat-vue-laravel-free.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/))</kbd>
 
 ## Introduction 🚀
 
-{introduction}
+If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Sneat. We’ve followed the highest industry standards to bring you one of the very best [VueJS Admin Laravel Templates](https://themeselection.com/products/category/laravel-admin-templates/) that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
 
-[View Demo]({direct_demo_url__NOT_PRODUCT_PAGE_URL})
+Build premium quality applications with ease. Use our innovative admin template to create eye-catching, high-quality, and high-performing single-page applications. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
+
+- ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite 3](https://github.com/vitejs/vite) & [Vuetify 3](https://next.vuetifyjs.com/en/) - Uses the latest Vuetify 3
+- 🗂 [File based routing](https://github.com/hannoeru/vite-plugin-pages)
+- 📦 [Components auto importing](https://github.com/antfu/unplugin-vue-components)
+- 📑 [Layout system](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
+- 😃 Use icons from any icon sets with classes by [Iconify](https://iconify.design/)
+- 🌍 I18n ready
+- 🔥 Use the [`<script setup>`](https://vuejs.org/api/sfc-script-setup.html) syntax
+- 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
+- 🦾 TypeScript & JavaScript versions
+
+[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/)
 
 ## Installation ⚒️
 
-{installation steps}
+Please [visit](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/documentation/guide/laravel-integration/installation.html) our docs for installation guide.
 
 ## What's Included 📦
 
-{template_includes}
+- Dashboard
+- Account Settings
+- Pages
+  - Login
+  - Register
+  - Error
+- User Interface
+  - Typography
+  - Icons
+  - Basic Cards
+  - Tables
+  - Form Layouts
 
 ## What's in Premium Version 💎
 
-| {template_single_word_name} Free Version        | {template_single_word_name} Premium Version       |
-| ----------------------------------------------- | :------------------------------------------------ |
-| [Demo]({direct_demo_url__NOT_PRODUCT_PAGE_URL}) | [Demo]({product_landing_page_url})                |
-| [Download]({ts_product_page_url})               | [Purchase]({ts_premium_product_page_url})                 |
-| Single vertical menu                            | Vertical (+ vertical collapsed) & Horizontal menu |
+| Sneat Laravel Free Version                                                                             | Sneat Laravel Premium Version                                                                        |
+| ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
+| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
+| [Download](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)        | [Purchase](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/)           |
+| Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
+| Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
+| 1 Simple Dashboard                                                                               | 3 Niche Dashboards                                                                             |
+| -                                                                                                | 5 API ready applications                                                                       |
+| Simple From Elements                                                                             | Advance form elemens, validation & form wizard                                                 |
+| Basic Cards                                                                                      | Basic Cards + Advanced Cards + Statistics Cards                                                |
+| -                                                                                                | API ready JWT Authentication flow                                                              |
+| -                                                                                                | Access Control (even on CRUD operations)                                                       |
+| -                                                                                                | Quick Search - Quickly navigate between pages (w/ hotkey support)                              |
+| Basic Pages                                                                                      | Authentication Pages in 2 variants + Ready to use pages like Pricing, FAQ, Knowledge base, etc |
+| -                                                                                                | 3D Characters + Illustrations                                                                  |
+| Basic tables                                                                                     | Advanced tables                                                                                |
+| Manual customization                                                                             | Quick customization using theme config file                                                    |
+| -                                                                                                | Advanced Charts                                                                                |
+| 1 Chart Library                                                                                  | 2 Chart Libraries                                                                              |
+| -                                                                                                | Multiple Navbar & Menu Options                                                                 |
+| -                                                                                                | Starter-kit                                                                                    |
+| -                                                                                                | Internationalization support in components                                                     |
+| Regular Support                                                                                  | Priority Support                                                                               |
+| Basic Documentation
 
 ## Documentation 📜
 
-<!-- If you have docs in wiki then use below line -->
-
-Check GitHub [Wiki]({repo_url}/wiki) of this repo
-
-<!-- If you have live docs then use below line -->
-
-Check out our live [Documentation]({live_docs_link})
+Check out our live [Documentation](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/documentation/)
 
 ## Browser Support 🖥️
 
-{note_and_list_of_supported_browsers}
+At present, we officially aim to support the last two versions of the following browsers:
+
+- Chrome (latest)
+- FireFox (latest)
+- Safari (latest)
+- Microsoft Edge (latest)
+- Opera (latest)
 
 ## Contributing 🦸
 
@@ -96,11 +138,11 @@ Please refer to the [CHANGELOG](CHANGELOG.md) file. We will add a detailed relea
 
 **[ThemeSelection](https://themeselection.com/)** provides Selected high quality, modern design, professional and easy-to-use Free and Premium [Bootstrap Admin Templates](https://themeselection.com/products/category/bootstrap-admin-templates/), [VueJS Admin Templates](https://themeselection.com/products/category/vuejs-admin-templates/), [Laravel Admin Templates](https://themeselection.com/products/category/laravel-admin-templates/), HTML Themes, and [Free UI Kits](https://themeselection.com/products/category/free-ui-kits/) to create your applications faster!.
 
-If you want to [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/) like Materio then do visit [ThemeSelection](https://themeselection.com/).
+If you want to [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/) like Sneat then do visit [ThemeSelection](https://themeselection.com/).
 
 ## Other variants
 
-* [Vue variant]({free_vue_version_themeselection_link})
+* [Vue variant](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/)
 <!-- Add others here -->
 
 ## Useful Links 🎁
