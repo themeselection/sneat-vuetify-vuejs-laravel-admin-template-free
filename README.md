@@ -1,13 +1,13 @@
 <p align="center"></p>
 
 <p align="center">
-   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/" target="_blank">
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/" target="_blank" align="center">
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank" align="center">
  Sneat – Vuetify Vuejs Laravel Admin Template Free
    </a>
 </h1>
@@ -70,7 +70,7 @@ Please [visit](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-templa
 
 | Sneat Laravel Free Version                                                                             | Sneat Laravel Premium Version                                                                        |
 | ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
+| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
 | [Download](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)        | [Purchase](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/)           |
 | Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
 | Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
