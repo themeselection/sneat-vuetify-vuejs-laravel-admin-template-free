@@ -45,7 +45,7 @@ Build premium quality applications with ease. Use our innovative admin template 
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
 - 🦾 TypeScript & JavaScript versions
 
-[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/)
+[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/)
 
 ## Installation ⚒️
 
@@ -70,7 +70,7 @@ Please [visit](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-templa
 
 | Sneat Laravel Free Version                                                                             | Sneat Laravel Premium Version                                                                        |
 | ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
+| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
 | [Download](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)        | [Purchase](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/)           |
 | Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
 | Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
