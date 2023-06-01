@@ -1,13 +1,13 @@
 <p align="center"></p>
 
 <p align="center">
-   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank">
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank" align="center">
+   <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/" target="_blank" align="center">
  Sneat – Vuetify Vuejs Laravel Admin Template Free
    </a>
 </h1>
@@ -18,7 +18,7 @@
    <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/themeselection/sneat-vuetify-vuejs-admin-template-free" alt="license">
    </a>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/themeselection/sneat-vuetify-vuejs-admin-template-free/Deploy">
+   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/themeselection/sneat-vuetify-vuejs-admin-template-free/deploy-demos.yml">
    <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/releases">
     <img src="https://img.shields.io/github/release/themeselection/sneat-vuetify-vuejs-admin-template-free.svg" alt="GitHub release">
   </a>
@@ -27,7 +27,7 @@
    </a>
 </p>
 
-<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/sneat-vue-laravel-free.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/))</kbd>
+<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/sneat-vue-laravel-free.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/))</kbd>
 
 ## Introduction 🚀
 
