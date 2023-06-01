@@ -15,8 +15,8 @@
 <p align="center">Production Ready, Carefully Crafted, Extensive Vuetify Admin Template</p>
 
 <p align="center">
-   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/themeselection/sneat-vuetify-vuejs-admin-template-free" alt="license">
+   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free" alt="license">
    </a>
    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/themeselection/sneat-vuetify-vuejs-admin-template-free/deploy-demos.yml">
    <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/releases">
@@ -27,7 +27,7 @@
    </a>
 </p>
 
-<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/sneat-vue-laravel-free.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/))</kbd>
+<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/sneat-vue-laravel-free.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/))</kbd>
 
 ## Introduction 🚀
 
