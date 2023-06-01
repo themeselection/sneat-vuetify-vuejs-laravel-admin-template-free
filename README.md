@@ -31,7 +31,7 @@
 
 ## Introduction 🚀
 
-If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Sneat. We’ve followed the highest industry standards to bring you one of the very best [VueJS Admin Laravel Templates](https://themeselection.com/products/category/laravel-admin-templates/) that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
+If you’re a developer looking for an admin dashboard that is developer-friendly, rich with features, and highly customizable look no further than Sneat. We’ve followed the highest industry standards to bring you the very best VueJS based [Laravel Admin Template](https://themeselection.com/products/category/laravel-admin-templates/) that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
 
 Build premium quality applications with ease. Use our innovative admin template to create eye-catching, high-quality, and high-performing single-page applications. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
 
