@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
+      <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
@@ -27,7 +27,7 @@
    </a>
 </p>
 
-<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.jsdelivr.net/gh/themeselection/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/marketing/sneat-vuetify-vuejs-laravel-admin-template-free-github.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)</kbd>
+<kbd>[![Sneat – Vuetify Vuejs Laravel Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/sneat/sneat-vuetify-vuejs-laravel-admin-template-free/banner/banner.png)](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)</kbd>
 
 ## Introduction 🚀
 
