@@ -8,6 +8,7 @@
 .env
 .env.backup
 .env.production
+.phpactor.json
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -35,6 +36,8 @@ dist-ssr
 /cypress/videos/
 /cypress/screenshots/
 
+# 👉 Custom Git ignores
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -50,4 +53,11 @@ dist-ssr
 .yarn
 
 # iconify dist files
-resources/js/@iconify/icons-bundle.js
+resources/js/plugins/iconify/icons.css
+
+# Ignore MSW script
+public/mockServiceWorker.js
+
+# Env files
+.env*
+!.env.example

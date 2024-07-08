@@ -1,46 +1,52 @@
+import { fileURLToPath } from 'node:url'
+import laravel from 'laravel-vite-plugin'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
-import { fileURLToPath } from 'node:url'
 import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
 import { defineConfig } from 'vite'
 import vuetify from 'vite-plugin-vuetify'
-import laravel from 'laravel-vite-plugin'
+import svgLoader from 'vite-svg-loader'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [
-    laravel({
-  input: ['resources/ts/main.ts'],
-  refresh: true,
-}),
-    vue({
-  template: {
+  plugins: [vue({
+    template: {
       transformAssetUrls: {
-          base: null,
-          includeAbsolute: false,
+        base: null,
+        includeAbsolute: false,
       },
-  },
-}),
-    vueJsx(),
-
-    // Docs: https://github.com/vuetifyjs/vuetify-loader/tree/master/packages/vite-plugin
-    vuetify({
-      styles: {
-        configFile: 'resources/styles/variables/_vuetify.scss',
+    },
+  }),
+  vueJsx(),
+  laravel({
+    input: ['resources/ts/main.ts'],
+    refresh: true,
+  }), // Docs: https://github.com/vuetifyjs/vuetify-loader/tree/master/packages/vite-plugin
+  vuetify({
+    styles: {
+      configFile: 'resources/styles/variables/_vuetify.scss',
+    },
+  }),
+  Components({
+    dirs: ['resources/ts/@core/components', 'resources/ts/components'],
+    dts: true,
+    resolvers: [
+      componentName => {
+        // Auto import `VueApexCharts`
+        if (componentName === 'VueApexCharts')
+          return { name: 'default', from: 'vue3-apexcharts', as: 'VueApexCharts' }
       },
-    }),
-    Components({
-      dirs: ['resources/ts/@core/components'],
-      dts: true,
-    }),
+    ],
+  }), // Docs: https://github.com/antfu/unplugin-auto-import#unplugin-auto-import
+  AutoImport({
+    imports: ['vue', 'vue-router', '@vueuse/core', '@vueuse/math', 'pinia'],
+    vueTemplate: true,
 
-    // Docs: https://github.com/antfu/unplugin-auto-import#unplugin-auto-import
-    AutoImport({
-      imports: ['vue', 'vue-router', '@vueuse/core', '@vueuse/math', 'pinia'],
-      vueTemplate: true,
-    }),
-  ],
+    // ℹ️ Disabled to avoid confusion & accidental usage
+    ignore: ['useCookies', 'useStorage'],
+  }),
+  svgLoader()],
   define: { 'process.env': {} },
   resolve: {
     alias: {
@@ -51,8 +57,6 @@ export default defineConfig({
       '@images': fileURLToPath(new URL('./resources/images/', import.meta.url)),
       '@styles': fileURLToPath(new URL('./resources/styles/', import.meta.url)),
       '@configured-variables': fileURLToPath(new URL('./resources/styles/variables/_template.scss', import.meta.url)),
-      '@axios': fileURLToPath(new URL('./resources/ts/plugins/axios', import.meta.url)),
-      'apexcharts': fileURLToPath(new URL('node_modules/apexcharts-clevision', import.meta.url)),
     },
   },
   build: {

@@ -1,30 +1,40 @@
 <script setup lang="ts">
 interface Props {
-  errorCode?: string
-  errorTitle?: string
-  errorDescription?: string
+  statusCode?: string | number
+  title?: string
+  description?: string
 }
 
 const props = defineProps<Props>()
 </script>
 
 <template>
-  <div class="text-center mb-4">
+  <div class="text-center">
     <!-- 👉 Title and subtitle -->
     <h1
-      v-if="props.errorCode"
-      class="text-h1 font-weight-medium"
+      v-if="props.statusCode"
+      class="header-title font-weight-medium mb-2"
     >
-      {{ props.errorCode }}
+      {{ props.statusCode }}
     </h1>
-    <h5
-      v-if="props.errorTitle"
-      class="text-h5 font-weight-medium mb-3"
+    <h4
+      v-if="props.title"
+      class="text-h4 font-weight-medium mb-2"
     >
-      {{ props.errorTitle }}
-    </h5>
-    <p v-if="props.errorDescription">
-      {{ props.errorDescription }}
+      {{ props.title }}
+    </h4>
+    <p
+      v-if="props.description"
+      class="text-body-1 mb-6"
+    >
+      {{ props.description }}
     </p>
   </div>
 </template>
+
+<style lang="scss" scoped>
+.header-title {
+  font-size: clamp(3rem, 5vw, 6rem);
+  line-height: clamp(3rem, 5vw, 6rem);
+}
+</style>

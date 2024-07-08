@@ -21,7 +21,7 @@ export default defineComponent({
         VerticalNav,
         { isOverlayNavActive: isOverlayNavActive.value, toggleIsOverlayNavActive },
         {
-          'nav-header': () => slots['vertical-nav-header']?.(),
+          'nav-header': () => slots['vertical-nav-header']?.({ toggleIsOverlayNavActive }),
           'before-nav-items': () => slots['before-vertical-nav-items']?.(),
           'default': () => slots['vertical-nav-content']?.(),
           'after-nav-items': () => slots['after-vertical-nav-items']?.(),
@@ -112,9 +112,13 @@ export default defineComponent({
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    min-block-size: calc(var(--vh, 1vh) * 100);
+    min-block-size: 100dvh;
     transition: padding-inline-start 0.2s ease-in-out;
     will-change: padding-inline-start;
+
+    @media screen and (min-width: 1280px) {
+      padding-inline-start: variables.$layout-vertical-nav-width;
+    }
   }
 
   .layout-navbar {
@@ -129,7 +133,10 @@ export default defineComponent({
         .layout-navbar {
           @if variables.$layout-vertical-nav-navbar-is-contained {
             @include mixins.boxed-content;
-          } @else {
+          }
+
+          // else
+          @else {
             .navbar-content-container {
               @include mixins.boxed-content;
             }
@@ -162,7 +169,7 @@ export default defineComponent({
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.25s ease-in-out;
-    will-change: transform;
+    will-change: opacity;
 
     &.visible {
       opacity: 1;
@@ -170,19 +177,17 @@ export default defineComponent({
     }
   }
 
-  &:not(.layout-overlay-nav) .layout-content-wrapper {
-    padding-inline-start: variables.$layout-vertical-nav-width;
-  }
-
   // Adjust right column pl when vertical nav is collapsed
   &.layout-vertical-nav-collapsed .layout-content-wrapper {
-    padding-inline-start: variables.$layout-vertical-nav-collapsed-width;
+    @media screen and (min-width: 1280px) {
+      padding-inline-start: variables.$layout-vertical-nav-collapsed-width;
+    }
   }
 
   // 👉 Content height fixed
   &.layout-content-height-fixed {
     .layout-content-wrapper {
-      max-block-size: calc(var(--vh) * 100);
+      max-block-size: 100dvh;
     }
 
     .layout-page-content {
