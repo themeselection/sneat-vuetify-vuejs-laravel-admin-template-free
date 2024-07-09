@@ -20,6 +20,14 @@ jobs:
         with:
           version: 8
 
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "latest"
+
+      - name: Check PHP version
+        run: php -v
+
       - name: ⚙️ Set BRAND_NAME environment variable from repo name
         run: echo BRAND_NAME=${{ github.event.repository.name }} | cut -d '-' -f1 >> $GITHUB_ENV
 
