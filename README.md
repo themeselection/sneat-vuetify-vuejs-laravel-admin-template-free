@@ -18,9 +18,9 @@
    <a href="https://github.com/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free" alt="license">
    </a>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/themeselection/sneat-vuetify-vuejs-admin-template-free/deploy-demos.yml">
-   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free/releases">
-    <img src="https://img.shields.io/github/release/themeselection/sneat-vuetify-vuejs-admin-template-free.svg" alt="GitHub release">
+   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free/deploy-laravel-demo-free.yml">
+   <a href="https://github.com/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free/releases">
+    <img src="https://img.shields.io/github/release/themeselection/sneat-vuetify-vuejs-laravel-admin-template-free.svg" alt="GitHub release">
   </a>
    <a href="https://twitter.com/Theme_Selection" target="_blank">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
@@ -45,7 +45,7 @@ Build premium quality applications with ease. Use our innovative admin template 
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
 - 🦾 TypeScript & JavaScript versions
 
-[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/)
+[View Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/)
 
 ## Installation ⚒️
 
@@ -70,7 +70,7 @@ Please [visit](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-templa
 
 | Sneat Laravel Free Version                                                                             | Sneat Laravel Premium Version                                                                        |
 | ------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
+| [Demo](https://demos.themeselection.com/sneat-vuetify-vuejs-laravel-admin-template-free/demo/dashboard)          | [Demo](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/?tab=details#details)           |
 | [Download](https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/)        | [Purchase](https://themeselection.com/item/sneat-vuetify-vuejs-laravel-admin-template/)           |
 | Single vertical menu                                                                             | Vertical (+ vertical collapsed) & Horizontal menu                                              |
 | Simple Light/Dark theme                                                                          | 3 Skin variants w/ light/dark theme support: Default, Bordered & Semi-dark                     |
