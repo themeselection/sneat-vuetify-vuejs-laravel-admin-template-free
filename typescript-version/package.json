@@ -84,5 +84,6 @@
   "overrides": {
     "postcss": "^8",
     "stylelint-order": "6.0.3"
-  }
+  },
+  "version": "2.1.0"
 }
