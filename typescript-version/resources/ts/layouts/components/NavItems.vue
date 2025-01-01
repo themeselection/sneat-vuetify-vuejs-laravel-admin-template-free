@@ -270,7 +270,7 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
     :item="{
       title: 'Documentation',
       icon: 'bx-file',
-      href: 'https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/documentation/',
+      href: 'https://demos.themeselection.com/sneat-vuetify-vuejs-admin-template/documentation/guide/laravel-integration/folder-structure.html',
       target: '_blank',
     }"
   />

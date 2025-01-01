@@ -1,4 +1,4 @@
-name: Deploy - Demos Free
+name: 🚀 Deploy - Demos Free
 run-name: ${{ inputs.is_production && '🚀' || '🧪' }} Deploy - Demos Free
 
 on:
@@ -126,3 +126,4 @@ jobs:
 
             # grant read & write permission to group & other
             chmod -R g+rw ${{ env.LARAVEL_CORE_DIR_NAME }}/storage
+            chmod -R g+rw ${{ env.LARAVEL_CORE_DIR_NAME }}/database/database.sqlite
